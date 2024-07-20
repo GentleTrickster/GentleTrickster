@@ -2,7 +2,7 @@
 
 A tricky twenty two year old guy who likes to overcomplicate programming after finishing his secondary special.
 Knows C# as well as anyone (maybe slightly better), dabbled in Python, skimmed over HTML, CSS, LUA and JavaScript.
-Worked with C# for somewhere along four-and-a-half years (mostly boring stuff and a couple of personal projects that is left to gather the dust.)
+Worked with C# for somewhere along four-and-a-half years (mostly boring stuff and a couple of personal projects that is left to gather dust.)
 Uses Windows 10 (daily), has experience with Linux 
 <!--
 **GentleTrickster/GentleTrickster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
